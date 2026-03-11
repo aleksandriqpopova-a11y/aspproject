@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Negotiate" Version="8.0.21" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Documantation\" />
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>
